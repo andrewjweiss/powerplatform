@@ -11,3 +11,5 @@ As my background is in visual design, I focused initially on creating a design s
 ### Consistent
 
 Allow these principles to guide you when designing and developing your products and experiences. 
+
+## Color
